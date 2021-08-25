@@ -1,4 +1,4 @@
-# Credentials for Amazon API
+# Credentials for Amazon API (sample file)
 
 a_key = ""
 s_key = ""
